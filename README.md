@@ -18,6 +18,7 @@ Feel free to contribute or star this repo if you find it useful!
 *   **[PixelProTools Watermark Adder](https://pixelprotools.org/add-watermark.html)** - A privacy-focused, client-side tool to add watermarks to images instantly (loads in under 1.6s) with zero quality loss.
 *   **[PixelProTools Background Remover](https://pixelprotools.org/)** - AI-powered high-precision background removal directly inside your browser.
 *   **[PixelProTools Image Upscaler](https://pixelprotools.org/)** - Pro-level image upscaling and sharpening without uploading data to external servers.
+*   **[Metadata Remover](https://metadataremover.ai/)** - Inspect and remove image metadata locally in the browser.
 *   **[Unsplash](https://unsplash.com)** - High-quality free stock photos for creators.
 *   **[TinyPNG](https://tinypng.com)** - Smart web tool to compress JPEG and PNG images.
 
