@@ -26,6 +26,7 @@ Feel free to contribute or star this repo if you find it useful!
 *   **[Invoico CV Suite](https://invoico.wasaygpt.com)** - A professional, fully client-side resume and CV builder designed for creators and job seekers.
 *   **[VeriScan Pro Suite](https://pixelprotools.org/)** - Advanced web utility for real-time plagiarism checking and AI content detection with a built-in dashboard highlighter.
 *   **[Notion](https://notion.so)** - All-in-one workspace for notes, tasks, and project management.
+*   **[NakupSladilcev.si Content Planner (Slovenian XLSX)](https://nakupsladilcev.si/resources/sl/content-planner.xlsx)** - Editable 30-slot content plan with topic, format, message and follow-up columns; includes a labelled fictional example.
 
 ## 🛠️ Development Utilities
 
