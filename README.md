@@ -8,6 +8,7 @@ Feel free to contribute or star this repo if you find it useful!
 
 ## 📋 Table of Contents
 - [Image & Design Tools](#-image--design-tools)
+- [Audio Tools](#audio-tools)
 - [Productivity & Writing Tools](#-productivity--writing-tools)
 - [Development Utilities](#-development-utilities)
 
@@ -20,6 +21,10 @@ Feel free to contribute or star this repo if you find it useful!
 *   **[PixelProTools Image Upscaler](https://pixelprotools.org/)** - Pro-level image upscaling and sharpening without uploading data to external servers.
 *   **[Unsplash](https://unsplash.com)** - High-quality free stock photos for creators.
 *   **[TinyPNG](https://tinypng.com)** - Smart web tool to compress JPEG and PNG images.
+
+## Audio Tools
+
+*   **[QuietTake Noise Remover](https://noiseremover.site/)** - Browser-local RNNoise speech denoising, playback comparison and WAV export; free, no account or audio upload; ≤50MB and ≤5min.
 
 ## 💼 Productivity & Writing Tools
 
